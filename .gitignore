@@ -4,8 +4,6 @@
 /trash
 /data
 /results/.ipynb_checkpoints
-/results/elasticnet_results.joblib
-/results/xgb_results.joblib
 /results/knn_results.joblib
 /results/randforest_results.joblib
 /results/train_test_prep.joblib
