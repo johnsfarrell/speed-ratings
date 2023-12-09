@@ -2,5 +2,6 @@
 /.ipynb_checkpoints
 /src/.ipynb_checkpoints
 /trash
-/data
-/results/.ipynb_checkpoints
+/data/compiled.csv
+/data/preprocessed.csv
+/data/tully_runners
